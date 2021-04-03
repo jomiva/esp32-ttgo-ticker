@@ -8,4 +8,4 @@ To install this program in your esp, you must have to install [PlatformIO](https
 
 ## Image
 
-<p><img src="https://github.com/jomiva/esp32-ttgo-ticker/blob/master/assets/esp32-ticker.pngq" alt="Cover" width="400"></p>
+<p><img src="https://github.com/jomiva/esp32-ttgo-ticker/blob/main/assets/esp32-ticker.png" alt="Cover" width="400"></p>
